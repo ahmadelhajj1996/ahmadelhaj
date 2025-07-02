@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@layer components {
+             
+        ::-webkit-scrollbar {
+            display: none;
+        }
+
+        html {
+        overflow-x: hidden;
+        }
+
+        body {
+        overflow-x: hidden;
+        position: relative;
+        }
+ 
+}

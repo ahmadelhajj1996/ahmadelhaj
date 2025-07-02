@@ -1,0 +1,87 @@
+{
+    "home": "Home",
+    "features": "Features",
+    "support": "Support",
+    "download_app": "Download App",
+    "arabic": "AR",
+    "english": "EN",
+    "heroTitle": "Buy and sell with ease, direct communication without intermediary",
+    "heroDescription": "Souq Al Balad app is an easy and secure classifieds platform that directly connects sellers with buyers across the country",
+    "featuresTitle": "Main Features",
+    "feature1": "Post your ad in a minute",
+    "feature2": "Direct communication with the seller",
+    "feature3": "Secure and easy to use",
+    "feature4": "Multiple sections covering all needs",
+    "discoverMore": "Discover more..",
+    "ratings": "Ratings",
+    "downloads": "Downloads",
+    "downloadCount": "10,000+",
+    "featuresSection": {
+        "title": "Souq Al Balad Features",
+        "description": "Discover how Souq Al Balad app makes buying and selling faster and more convenient for you",
+        "feature1": {
+            "title": "Post your ad in a minute",
+            "description": "Take a photo of the item you want to sell, add the price and some simple details, then publish your ad with one click. The process takes no more than a minute to start attracting buyers!"
+        },
+        "feature2": {
+            "title": "Instant in-app chat",
+            "description": "Enjoy an instant messaging system within the app that allows you to communicate directly and securely with sellers and buyers. Ask, negotiate, and agree easily without sharing your personal data"
+        },
+        "feature3": {
+            "title": "Simple and easy-to-use design",
+            "description": "A carefully designed interface suitable for everyone, regardless of their experience with apps. Easy browsing and clear steps for an enjoyable and smooth buying and selling experience"
+        },
+        "feature4": {
+            "title": "Premium ads support",
+            "description": "Add a professional touch to your ad by featuring it to appear at the top of search results and on home pages, increasing its visibility and chances of selling faster"
+        },
+        "feature5": {
+            "title": "Dashboard for merchants",
+            "description": "If you're a professional merchant or run a small store, you'll get a complete dashboard to manage your ads, track your sales, and communicate with customers easily and effectively, all in one place"
+        }
+    },
+    "supportPage": {
+        "aboutUs": {
+            "title": "About Us",
+            "description": "Souq Al Balad is a classifieds app that helps users in Syria to buy and sell products and services easily, without intermediaries. The app is fully designed in Arabic, with a simple, secure interface suitable for everyone. From selling a car or renting a property to posting a job or offering a service - Souq Al Balad is your first platform.",
+            "teamDescription": "We are a team of developers and designers based in Switzerland and Germany, with extensive experience in using global buying and selling platforms. Through our experience, we noticed the absence of a professional local platform in Syria, so we decided to transfer this idea and develop an application that suits the Syrian market with global quality and technologies."
+        },
+        "whyUs": {
+            "title": "Why Souq Al Balad?",
+            "description": "A locally designed app, with high quality, without complexity, and gives users the freedom to communicate, buy and sell. We don't take commissions, nor do we interfere between users - we only give you the tools you need."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "text": "To be the first platform for classified ads in Syria, with an easy and professional digital approach."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "text": "To provide a simple and secure means of direct communication between seller and buyer, without commission or intermediary."
+        },
+        "contact": {
+            "title": "We're here to help you",
+            "description": "If you have any inquiry, problem or suggestion, do not hesitate to contact us. You will be replied to as soon as possible.",
+            "form": {
+                "fullName": "Full Name",
+                "email": "Email",
+                "subject": "Subject",
+                "message": "Message",
+                "submit": "Send"
+            }
+        }
+    },
+
+
+
+
+
+    "navigation": "Navigation",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "privacyPolicy": "Privacy Policy",
+    "faq": "FAQ",
+    "contactUs": "Contact Us",
+    "termsOfService": "Terms of Service",
+    "allRightsReserved": "All rights reserved",
+    "copyright": "Copyright ©  Souq Al Balad. All rights reserved."
+}

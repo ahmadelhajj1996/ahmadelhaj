@@ -69,19 +69,19 @@ function Home() {
                     </p>
 
                     <div className="ps-4 flex flex-col gap-y-2">
-                      <div className="text-[.8rem] sm:text-[.9rem] max-w-6xl mx-auto lg:mx-0 leading-8 flex gap-x-2 items-center">
+                      <div className="text-[.8rem] sm:text-[.9rem]  leading-8 flex items-center gap-x-2 ">
                         <span className="text-lg sm:text-xl">*</span>{" "}
                         {t("feature1")}
                       </div>
-                      <div className="text-[.8rem] sm:text-[.9rem] max-w-6xl mx-auto lg:mx-0 leading-8 flex gap-x-2 items-center">
+                      <div className="text-[.8rem] sm:text-[.9rem]  leading-8 flex items-center gap-x-2 ">
                         <span className="text-lg sm:text-xl">*</span>{" "}
                         {t("feature2")}
                       </div>
-                      <div className="text-[.8rem] sm:text-[.9rem] max-w-6xl mx-auto lg:mx-0 leading-8 flex gap-x-2 items-center">
+                      <div className="text-[.8rem] sm:text-[.9rem]  leading-8 flex items-center gap-x-2 ">
                         <span className="text-lg sm:text-xl">*</span>{" "}
                         {t("feature3")}
                       </div>
-                      <div className="text-[.8rem] sm:text-[.9rem] max-w-6xl mx-auto lg:mx-0 leading-8 flex gap-x-2 items-center">
+                      <div className="text-[.8rem] sm:text-[.9rem]  leading-8 flex items-center gap-x-2 ">
                         <span className="text-lg sm:text-xl">*</span>{" "}
                         {t("feature4")}
                       </div>

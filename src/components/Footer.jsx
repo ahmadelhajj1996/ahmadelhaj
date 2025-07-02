@@ -12,12 +12,7 @@ function Footer() {
     { path: "/privacy", key: "privacyPolicy" },
   ];
 
-  const quickLinks = [
-    { href: "#download", key: "downloadApp" },
-    { href: "#faq", key: "faq" },
-    { href: "#contact", key: "contactUs" },
-    { href: "#terms", key: "termsOfService" },
-  ];
+ 
 
   return (
     <footer className="bg-inherit border-t-[1px] border-[#007D7B] w-full">
@@ -42,25 +37,7 @@ function Footer() {
             </ul>
           </div>
 
-          {/* Quick Links Section */}
-          <div className="space-y-4">
-            <h3 className="text-lg font-semibold text-white">
-              {t("quickLinks")}
-            </h3>
-            <ul className="space-y-2">
-              {quickLinks.map((link) => (
-                <li key={link.key}>
-                  <a
-                    href={link.href}
-                    className="text-white text-sm hover:text-[#249192] transition-colors duration-200"
-                  >
-                    {t(link.key)}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-
+ 
           {/* Contact Info Section */}
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-white">
